@@ -143,14 +143,19 @@ Many tools offer APIs for programmatic access:
 
  **Narration/Speech** 
    - LOVO, Synthesia, Murf.ai
+     
  **Music Gen**
    -  AudioCraft (Meta), Shutterstock's Amper music, AIVA, Soundful, Google's Magenta, WavTool (powered by GPT4)
+   - 
  **Noise Clean**
    - Audo AI
+     
  **Video**
    - Runway AI (generated an Oscar-winning movie in 2022), EaseUS video toolkit, Synthesia app
+     
  **Custom Avatars**
    - Synthesia
+     
  **Mobile Game**
    - Scenario AI
 
