@@ -1,5 +1,6 @@
-# RAG & Agentic AI - Reference Guide
+# RAG & Agentic AI
 
+Source Document: https://www.coursera.org/learn/develop-generative-ai-applications-get-started/ungradedWidget/Nhn3P/reading-comprehensive-guide-to-generative-ai
 > Quick reference for Retrieval-Augmented Generation, Multi-Agent Systems, and Advanced AI Techniques
 
 ---
