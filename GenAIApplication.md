@@ -1,4 +1,4 @@
-#### 9.6 Generative AI in DevOps & IT Operations
+## 9.6 Generative AI in DevOps & IT Operations
 
 **IT DevOps Key Tools:**
 
@@ -21,7 +21,7 @@
 
 ---
 
-#### 9.7 Text Generation Models
+## 9.7 Text Generation Models
 
 **Core Technology: Large Language Models (LLMs)**
 
@@ -66,7 +66,7 @@ LLMs are the foundation of modern text generation.
 
 ---
 
-#### 9.8 Image Generation Models
+## 9.8 Image Generation Models
 
 **Core Technology: Diffusion Models + Text Encoders**
 
@@ -119,7 +119,7 @@ Many tools offer APIs for programmatic access:
 
 ---
 
-#### 9.9 Microsoft AI Tools for Content Creation
+## 9.9 Microsoft AI Tools for Content Creation
 
 **Microsoft Copilot:**
 - **Image captioning**: Automatically generate descriptive captions for images
@@ -139,7 +139,7 @@ Many tools offer APIs for programmatic access:
 
 ---
 
-#### 9.10 Audio/Video Generation Models
+## 9.10 Audio/Video Generation Models
 
  **Narration/Speech** 
    - LOVO, Synthesia, Murf.ai
