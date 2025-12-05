@@ -41,6 +41,8 @@ LLMs are the foundation of modern text generation.
    - Powered by **PaLM** (Pathways Language Model)
    - PaLM = Transformer model + Google's Pathways AI architecture
    - Pathways: Enables efficient multi-task learning across domains
+   - good with long documents
+   - access web through Google search -> updated to the latest news/info online
 
 **Open-Source & Privacy-Aware:**
 
